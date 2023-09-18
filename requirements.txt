@@ -1,0 +1,9 @@
+flask
+flask_restplus
+flask_wtf
+flask-cors
+Flask-Migrate
+Flask-SQLAlchemy
+psycopg2-binary
+python-dotenv
+waitress
