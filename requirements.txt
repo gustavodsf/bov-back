@@ -7,3 +7,4 @@ psycopg2-binary
 python-dotenv
 waitress
 flask-restx==1.1.0
+sqlalchemy_utils
